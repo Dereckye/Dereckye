@@ -1,4 +1,4 @@
-### Prazer,Me chamo Dereck Luiz! Sou Iniciante em programação e trabalho com Freelance 
+### Prazer,Me chamo Dereck Luiz! Sou Iniciante em programação e trabalho com Freelance na Area de Design de Games
 ##
 
 <div>

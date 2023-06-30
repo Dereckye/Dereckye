@@ -3,8 +3,12 @@
 
 <p><strong>I'm Dereck,a Brazilian programmer looking for work!</strong></p>
 
+<div align="center"> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dereckye&count_private=true&show_icons=true&theme=github_dark" width="350"/> 
+ </div>
+
 <h2 href="https://github.com/Dereckye">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dereckye&show_icons=true&theme=tokyonight&inlcude_all_commits=true&count_private=true">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dereckye&show_icons=true&theme=github_dark&inlcude_all_commits=true&count_private=true">
 </h2>
 
 ## Languages:

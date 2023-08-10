@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35px"><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/slightly-smiling-face_1f642.gif" width="55px">Hey!
 
-<p align="center">I'm Dereck,<strong> a Brazilian Front End developer</strong></p> 
+<p align="center">I'm Dereck,<strong> a Brazilian Full-Stack developer</strong></p> 
 
 ### Skills:
   <div display="flex" align="left"> 

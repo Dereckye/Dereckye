@@ -1,13 +1,13 @@
 ## Hello, my name is Dereck Luiz 🇧🇷 
 
 ### 🚀I have experience with:
-JavaScript, React, Handlebars, Node.js, Bootstrap, PHP, MySQL.
+JavaScript, React, Handlebars, Node.js, Bootstrap, PHP, MySQL, Java, C#.
 
 ### 📚Academic Background:
 I'm currently studying Systems Analysis and Development at college, further applying my knowledge in software systems, programming languages, etc.
 
 ### ✍🏻At the moment, I currently studying:
-Java, C#, Backend in general.
+Cybersecurity.
 
 ### ⚡You can contact me :
 - Email: [dereckluizs@gmail.com](mailto:dereckluizs@gmail.com)
